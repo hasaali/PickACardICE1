@@ -10,6 +10,8 @@ public class CardTrick {
     {
        
     }
-    
+    class card{
+        //this is done by ali ID 991387991
     }
+}
 
